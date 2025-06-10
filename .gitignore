@@ -1,0 +1,5 @@
+artifacts
+opt
+.venv
+.idea
+*.jar
